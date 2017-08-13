@@ -30,6 +30,7 @@ public class GitTestActivity extends AppCompatActivity {
 
     Log.e("change to commit 2", "");
 
+    Log.e("change to commit 3", "");
   }
 
 }
