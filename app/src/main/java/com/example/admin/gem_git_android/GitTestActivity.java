@@ -25,6 +25,9 @@ public class GitTestActivity extends AppCompatActivity {
             .setAction("Action", null).show();
       }
     });
+
+    Log.e("change to commit 1", "");
+
   }
 
 }
