@@ -25,8 +25,6 @@ public class GitTestActivity extends AppCompatActivity {
             .setAction("Action", null).show();
       }
     });
-
-    Log.e("error", "log  test");
   }
 
 }
